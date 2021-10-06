@@ -1,0 +1,16 @@
+Crop model,Objective crop,Predicted impacts,Reference(s)
+CERES-Maize,Maize,Dry matter,[33]
+,Maize,Sustainable production,[53]
+,Maize,Planting date and different weather,[54]
+,Maize,Precise and deficit irrigation,[55]
+CERES-Wheat,Wheat,CO2 levels,[50]
+,Wheat,CO2 levels,[51]
+CropSyst,Wheat,Rainfall and warming temperature,[49]
+CERES-Rice,Rice,CO2 levels,[60]
+SWAP,Rice,CO2 levels,[58]
+InFoCrop,Rice,Elevated CO2 and temperature,[59]
+,Rice and wheat,Climate change,"[6,7]"
+IBSNAT-ICASA,Cereal/soybean,Climate change,[61]
+GLAM,Peanut,Climate uncertainty,[9]
+GLYCIM,Soybean,Temperature rainfall and CO2 concentration,[18]
+SWAT,Maize,Climate vulnerability,[63]

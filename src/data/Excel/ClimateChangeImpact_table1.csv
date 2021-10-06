@@ -1,0 +1,37 @@
+odel,Vintage,Country,Sponsors,Horizontal,Simulated data
+,,,,resolution,used in slope analysis
+CC-CM1,2005,China,Beijing Climate Center,1.9 1.9L16,1871–2100
+bCCR-BCM2.0,2005,Norway,Bjerknes Center for,1.9 1.9L31,1850–2099
+,,,Climate Research,,
+CSM3,2005,USA,National Center for,1.4 1.4L26,1870–2099
+,,,Atmospheric Research,,
+CCM3.1(T 47),2005,Canada,Canadian Center for Climate,2.8 2.8L31,1850–2100
+,,,Modelling & Analysis,,
+CCM3.1(T 63),2005,Canada,Canadian Center for Climate,1.9 1.9L31,1850–2100
+,,,Modelling & Analysis,,
+NRM-CM3,2004,France,Météo-France/Centre National,1.9 1.9L45,1860–2090
+,,,de Recherches Météorologiques,,
+SIRO-Mk3.0,2001,Australia,CSIRO Atmospheric Research,1.9 1.9L18,1871–2100
+CHAM5/MPI-OM,2005,Germany,Max Planck Institute for Meteorology,1.9 1.9L31,1860–2100
+CHO-G,1999,Germany/Korea,Meteorological Institute,3.9 3.9L19,1860–2100
+,,,"of the University of Bonn,",,
+,,,Meteorological Research Institute,,
+,,,"of KMA, and Model",,
+GOALS-g1.0,2004,China,LASG/Institute of Atmospheric Physics,2.8 2.8L26,1850–2099
+FDL-CM2.0,2005,USA,US Dept. of Commerce/NOAA/,2.0 2.5L24,1861–2100
+,,,Geophysical Fluid Dynamics Laboratory,,
+FDL-CM2.1,2005,USA,US Dept. of Commerce/NOAA/,2.0 2.5L24,1861–2100
+,,,Geophysical Fluid Dynamics Laboratory,,
+ISS-AOM,2004,USA,NASA/Goddard Institute for Space Studies,3.0 4.0L12,1850–2100
+ISS-EH,2004,USA,NASA/Goddard Institute for Space Studies,4.0 5.0L20,1880–2099
+ISS-ER,2004,USA,NASA/Goddard Institute for Space Studies,4.0 5.0L20,1880–2100
+NM-CM3.0,2004,Russia,Institute for Numerical Mathematics,4.0 5.0L21,1871–2100
+PSL-CM4,2005,France,Institut Pierre Simon Laplace,2.5 3.75L19,1860–2100
+IROC3.2 (hires),2004,Japan,Center for Climate System Research,1.12 1.12L56,1900–2100
+IROC3.2 (medres),2004,Japan,Center for Climate System Research,2.8 2.8L20,1850–2100
+RI-CGCM2.3.2,2003,Japan,Meteorological Research Institute,2.8 2.8L30,1851–2100
+CM,1998,USA,National Center for Atmospheric Research,2.8 2.8L26,1890–2099
+KMO-HadCM3,1997,UK,Hadley Center for Climate Prediction,2.5 3.75L19,1860–2099
+,,,and Research/Met Office,,
+KMO-HadGEM1,2004,UK,Hadley Center for Climate Prediction,1.25 1.9L38,1860–2098
+,,,and Research/Met Office,,

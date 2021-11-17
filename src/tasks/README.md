@@ -11,9 +11,9 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|  Wheather Analysis        |       |
-|2|  Crop-Disease-Prediction       |         |
-|3|  Crop-detection      |         |
+|1|  Wheather Analysis        |     The temperature and rain analysis of of all regions across Nigeria was analysed  |
+|2|  Crop-Disease-Prediction       |  Rice and Maize diseases was predicted from catured images       |
+|3|  Crop-detection      |     From a pool of images, the model detects and classify the image as either rice leaf or maize leaf or others    |
 
 
 

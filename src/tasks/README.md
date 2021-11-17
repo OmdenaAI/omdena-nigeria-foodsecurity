@@ -11,16 +11,9 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|  Climate-risk-prediction,Drought-predictions        |       |
-|2|  Archade-data-fusion      |         |
-|3|  Crop-Disease-Prediction       |         |
-|4|  Crop-yield-Prediction    |         |
-|5|  Forest-Management       |         |
-|6|  Data-preprocessing-and-exploaration       |         |
-|7|  Digital-climate-advisory       |         |
-|8|  Food-storage-and-security      |         |
-|9|  Risk-assessment      |         |
-|10|  Crop-detection      |         |
+|1|  Wheather Analysis        |       |
+|2|  Crop-Disease-Prediction       |         |
+|3|  Crop-detection      |         |
 
 
 

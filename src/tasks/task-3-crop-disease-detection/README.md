@@ -30,11 +30,9 @@ We replaced the top layer that classifies 1000 classes with our very own classif
 <!-- insert image here -->
 ![](https://github.com/OmdenaAI/omdena-nigeria-foodsecurity/blob/main/src/tasks/task-3-crop-disease-detection/images/dropout.png?raw=true)
 
-Another technique that we tried to combat overfitting was to set the weights for each class so that the model will pay more attention to the minority class by giving its higher weight. We used scikit learn's compute_class_weight function for this task.
+For maize model, another technique that we tried to combat overfitting was to set the weights for each class so that the model will pay more attention to the minority class by giving its higher weight. We used scikit learn's compute_class_weight function for this task.
 
-
-
-We tried to made our own CNN model but it didn't perform well. We have tried also the other pretrained models such as VGG16 and Xception but ResNet50 outperformed them. See the model's performance below.
+We tried to made our own CNN model but it didn't perform well. We have tried also the other pretrained models such as VGG16 and Xception but ResNet50 outperformed them. See the model's performance for maize leaf disease detection below.
 
 Model            |  Accuracy            |  F1-Score
 :-------------------------:|:-------------------------:|:-------------------------:
@@ -43,6 +41,7 @@ Xception  |  0.86  |  0.83
 ResNet50  |  0.91  |  0.91
 3-layer CNN  |  0.79  |  0.79
 
+For rice model, we have explored ResNet50 only. The model correctly classified 92% of the test data.
 
 ## Resource Links
 

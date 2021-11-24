@@ -1,1 +1,3 @@
-add file to create images folder
+## Images Folder
+
+This folder is containing the images for this task's documentation.

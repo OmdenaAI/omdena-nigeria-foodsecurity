@@ -48,6 +48,7 @@ For rice model, we have explored ResNet50 only. The model correctly classified 9
 1. https://www.kaggle.com/vbookshelf/rice-leaf-diseases?select=rice_leaf_diseases
 2. https://www.kaggle.com/smaranjitghose/corn-or-maize-leaf-disease-dataset
 3. https://www.researchgate.net/publication/255483247_Automatic_plant_pest_detection_recognition_using_k-means_clustering_algorithm_correspondence_filters
-4. https://keras.io/api/applications/resnet/#resnet50-function
-5. https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
-6. https://towardsdatascience.com/dealing-with-imbalanced-data-in-tensorflow-class-weights-60f876911f99
+4. https://www.fao.org/news/story/en/item/1402920/icode/#:~:text=FAO%20estimates%20that%20annually%20up,climate%20change%20impacting%20plant%20pests%3F
+5. https://keras.io/api/applications/resnet/#resnet50-function
+6. https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+7. https://towardsdatascience.com/dealing-with-imbalanced-data-in-tensorflow-class-weights-60f876911f99
